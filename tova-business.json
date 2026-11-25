@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:13:13.516Z",
+  "slug": "shirleyphysiochristchurch",
+  "name": "Shirley St Albans Physiotherapy",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Physiotherapists",
+    "niche": "physiotherapists",
+    "group": "Health & medical"
+  },
+  "contact": {
+    "phone": "+6433859962",
+    "email": "info@shirleyphysiochristchurch.co.nz",
+    "address": "133 Hills Rd, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/302802239831532"
+  },
+  "about": {
+    "overview": "Physio Christchurch: Shirley - St Albans Physiotherapy is a community based physio clinic in Christchurch. For bookings & appointments phone 03 385 9962",
+    "tagline": "Your Local Christchurch Physiotherapist",
+    "services": [
+      "Location",
+      "Why Shirley Physio?",
+      "Quick Nav",
+      "Make an Appointment",
+      "What we treat",
+      "Types of treatment"
+    ]
+  },
+  "before": {
+    "url": "http://www.shirleyphysiochristchurch.co.nz/",
+    "domain": "shirleyphysiochristchurch.co.nz",
+    "finalUrl": "https://shirleyphysiochristchurch.co.nz/",
+    "title": "Physio Christchurch | Shirley - St Albans Physiotherapy Clinic",
+    "pages": 13,
+    "score": 46,
+    "assessedAt": "2026-11-19T13:22:44.946Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "stale-copyright",
+        "title": "Looks out of date",
+        "evidence": "Footer copyright reads 2020, 6 years ago."
+      },
+      {
+        "id": "img-alt",
+        "title": "Images missing descriptions",
+        "evidence": "19 of 21 images have no alt text (accessibility and SEO)."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/shirley-st-albans-physiotherapy/",
+    "repoUrl": "https://github.com/tova-studio/shirley-st-albans-physiotherapy",
+    "generator": "claude",
+    "accent": "#f78da7",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:13:13.516Z"
+  }
+}
